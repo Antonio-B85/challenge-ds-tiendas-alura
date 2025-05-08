@@ -32,20 +32,20 @@ Para cada sección del análisis, se han seguido los siguientes pasos generales:
 
 El análisis se divide en varios estudios los cuales se encuentran detallados y en profundidad dentro del archivo [ChallengeDSTiendasAlura.ipynb](https://github.com/Antonio-B85/challenge-ds-tiendas-alura/blob/main/ChallengeDSTiendasAlura.ipynb). Los estudios realizados fueron:
 
-1. **Análisis y Facturación**  
-2. **Ventas por Categoría**  
-3. **Calificación Promedio de Cada Tienda**  
-4. **Productos Más y Menos Vendidos**  
-5. **Envío Promedio por Tienda**  
-6. **Dispersión Geográfica**  
-7. **Precios Promedio por Tienda**  
-8. **Ganancias por Categoría**  
-9. **Ratios de Envío vs Precio de Tienda**  
-10. **Conclusiones Finales**
+- **Análisis y Facturación**  
+- **Ventas por Categoría**  
+- **Calificación Promedio de Cada Tienda**  
+- **Productos Más y Menos Vendidos**  
+- **Envío Promedio por Tienda**  
+- **Dispersión Geográfica**  
+- **Precios Promedio por Tienda**  
+- **Ganancias por Categoría**  
+- **Ratios de Envío vs Precio de Tienda**  
+- **Conclusiones Finales**
 
 ## Conclusiones
 
-Se sugiere cerrar la Tienda 4. El análisis que respalda esta decisión se divide primero en un análisis final para cada una de las 4 tiendas y en base a esto se indica porque motivos la Tienda 4 es la menos eficiente de todas. Todo esto se encuentra detallado en el archivo [ChallengeDSTiendasAlura.ipynb](https://github.com/Antonio-B85/challenge-ds-tiendas-alura/blob/main/ChallengeDSTiendasAlura.ipynb), sección "11. Conclusiones Finales".
+Se sugiere cerrar la Tienda 4. El análisis que respalda esta decisión se divide primero en un análisis final para cada una de las 4 tiendas y en base a esto se indica porque motivos la Tienda 4 es la menos eficiente de todas. Todo esto se encuentra detallado en el archivo [ChallengeDSTiendasAlura.ipynb](https://github.com/Antonio-B85/challenge-ds-tiendas-alura/blob/main/ChallengeDSTiendasAlura.ipynb), sección "Conclusiones Finales".
 
 ## Autor
 
