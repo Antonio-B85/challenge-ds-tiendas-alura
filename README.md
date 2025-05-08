@@ -30,7 +30,7 @@ Para cada sección del análisis, se han seguido los siguientes pasos generales:
 
 ## Estudios
 
-El análisis se divide en varios estudios los cuales se encuentran detallados y en profundidad dentro del archivo [AluraStoreLatam.ipynb](https://github.com/Antonio-B85/challenge-ds-tiendas-alura/blob/main/AluraStoreLatam.ipynb). Los estudios realizados fueron:
+El análisis se divide en varios estudios los cuales se encuentran detallados y en profundidad dentro del archivo [ChallengeDSTiendasAlura.ipynb](https://github.com/Antonio-B85/challenge-ds-tiendas-alura/blob/main/ChallengeDSTiendasAlura.ipynb). Los estudios realizados fueron:
 
 1. **Análisis y Facturación**  
 2. **Ventas por Categoría**  
@@ -45,7 +45,7 @@ El análisis se divide en varios estudios los cuales se encuentran detallados y 
 
 ## Conclusiones
 
-Se sugiere cerrar la Tienda 4. El análisis que respalda esta decisión se divide primero en un análisis final para cada una de las 4 tiendas y en base a esto se indica porque motivos la Tienda 4 es la menos eficiente de todas. Todo esto se encuentra detallado en el archivo [AluraStoreLatam.ipynb](https://github.com/Antonio-B85/challenge-ds-tiendas-alura/blob/main/AluraStoreLatam.ipynb), sección "10. Conclusiones Finales".
+Se sugiere cerrar la Tienda 4. El análisis que respalda esta decisión se divide primero en un análisis final para cada una de las 4 tiendas y en base a esto se indica porque motivos la Tienda 4 es la menos eficiente de todas. Todo esto se encuentra detallado en el archivo [ChallengeDSTiendasAlura.ipynb](https://github.com/Antonio-B85/challenge-ds-tiendas-alura/blob/main/ChallengeDSTiendasAlura.ipynb), sección "11. Conclusiones Finales".
 
 ## Autor
 
