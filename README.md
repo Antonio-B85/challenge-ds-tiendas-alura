@@ -49,7 +49,6 @@ Para cada sección del análisis, se han seguido los siguientes pasos generales:
 
 En este estudio se buscó poder obtener inicialmente las ganancias totales de cada tienda para posteriormente analizar los datos obtenidos.
 
-
 **Hipótesis Inicial:**
 
 Inicialmente se pensó que los productos de un mismo tipo, por ejemplo, una "cama box" podría tener el mismo valor cada vez que hubiese sido vendida, pero luego de hacer un análisis se llegó a la conclusión de que los artículos tenían precios distintos, ya fueran del mismo tipo o incluso perteneciendo a la misma categoría.
@@ -60,7 +59,6 @@ Debido a lo señalado anteriormente, se decidió sumar directamente la columna d
 
 Los valores obtenidos fueron:
 
-
 *   Tienda 1: $1150880400.0
 
 *   Tienda 2: $1116343500.0
@@ -69,9 +67,10 @@ Los valores obtenidos fueron:
 
 *   Tienda 4: $1038375700.0
 
-
-
 Gráficamente podemos verlo de la siguiente forma:
+
+![image](https://github.com/user-attachments/assets/ea3ebbf7-3918-422d-b8e8-cb056028ca88)
+
 
 **Conclusión Estudio 1**
 
@@ -81,7 +80,6 @@ Claramente podemos ver que, si nos basamos solo en las ventas totales, sin tomar
 ### 2. Ventas por Categoría
 
 En este estudio se buscó analizar cuáles fueron las categorías que más ventas tuvieron, para poder ver cuáles eran los pilares en cuanto a ventas para cada tienda.
-
 
 **Hipótesis Inicial:**
 
@@ -140,7 +138,9 @@ Categoría del Producto Tienda 4
 
 Gráficamente podemos verlo de la siguiente forma:
 
-****Conclusión Estudio 2****
+![image](https://github.com/user-attachments/assets/247d8150-d83e-435f-be46-83d0d570fa5c)
+
+**Conclusión Estudio 2**
 
 Como se puede observar, dentro de las categorías con más ventas destacan las Tiendas 1, 3 y 4. Si bien la Tienda 2 no destaca en ninguna de las categorías iniciales, tiene un alza importante en lo que son las 3 categorías con menos ventas, las cuales son "Instrumentos Musicales", "Libros" y "Artículos para el hogar".
 
@@ -171,6 +171,8 @@ Los datos obtenidos fueron:
 
 Gráficamente podemos verlo de la siguiente forma:
 
+![image](https://github.com/user-attachments/assets/6ac3d058-6252-4441-aeb3-b634680d0548)
+
 **Conclusión Estudio 3**
 
 Como se puede observar, la tienda "mejor calificada" es la Tienda 3, mientras que la peor es la Tienda 1. Al contrario de lo que pensábamos inicialmente, la cantidad de ventas y volumen de ventas no se ven reflejados en la satisfacción de los clientes, lo cual nos podría hacer pensar que las ventas de la Tienda 1 no dependen de los productos en sí, sino de factores externos como pueden ser vendedores, ubicación geográfica, etc.
@@ -188,7 +190,6 @@ Inicialmente se espera que los productos más vendidos tengan relación con las 
 Se buscó traer todos los productos con sus respectivas cantidades, luego se generaron duplas para poder realizar un filtro que me indicara el producto más vendido y, a su vez, el menos vendido por cada tienda.
 
 Los datos obtenidos fueron:
-
 
 Productos Más Vendidos por Tienda:
 
@@ -208,8 +209,9 @@ Productos Menos Vendidos por Tienda:
 |Tienda 3|Bloques de construcción|35 u.|
 |Tienda 4|Guitarra eléctrica|33 u.|
 
-
 Gráficamente podemos verlo de la siguiente forma:
+
+![image](https://github.com/user-attachments/assets/6a7f3e87-4cd8-4db3-a434-54403b163873)
 
 **Conclusión Estudio 4**
 
@@ -239,12 +241,13 @@ Los datos obtenidos fueron:
 
 Gráficamente podemos verlo de la siguiente forma:
 
+![image](https://github.com/user-attachments/assets/77df1df5-9df8-4648-94b2-b39c38f8b2b9)
+
 **Conclusión Estudio 5**
 
 Tal como se esperaba, los promedios de los costos de envío se condicen con las ventas totales de cada tienda, por lo cual vemos que la Tienda 1 fue la que más vendió, seguida por la Tienda 2, Tienda 3 y finalmente la Tienda 4 respectivamente.
 
 *Nota: Es importante tener en cuenta para este análisis que, si bien obtenemos un promedio de costo de envío, en ningún caso se aclara si el costo es asumido por el cliente o la tienda, con el fin de saber cuál es la ganancia total de la empresa en estos casos.*
-
 
 ### 6. Dispersión Geográfica
 
@@ -259,8 +262,6 @@ Se piensa que las tiendas que tienen más ventas y mayores envíos promedio sean
 Básicamente se toma una tienda completa, se agrupan por vendedores y se calcula la desviación estándar de la latitud y longitud de cada uno para cada tienda. Luego sumamos las desviaciones y calculamos la dispersión geográfica promedio para cada uno.
 
 Los datos obtenidos fueron:
-
-
 
 Tienda 1
 
@@ -280,8 +281,6 @@ Tienda 1
 |Rafael Acosta|2.688888|1.398675|4.087563|
 |Santiago Silva|2.659459|1.250261|3.909721|
 |Ángel Rodriguez|1.752578|1.027641|2.780218|
-
-
 
 Tienda 2
 
@@ -321,7 +320,6 @@ Tienda 3
 |Santiago Silva|  2.758229 | 1.439802 |         4.198031|
 |Ángel Rodriguez | 2.060488 | 1.106385 |         3.166873|
 
-
 Tienda 4
 
 | Vendedor | lat | lon | Dispersion Total|
@@ -342,6 +340,22 @@ Tienda 4
 |Ángel Rodriguez | 2.203191 | 1.072129    |      3.275319|
 
 Gráficamente podemos verlo de la siguiente forma:
+
+Tienda 1:
+
+![image](https://github.com/user-attachments/assets/9579ae2e-133f-401f-b58e-33307b046b68)
+
+Tienda 2:
+
+![image](https://github.com/user-attachments/assets/0679197e-f07c-437d-9b7e-f0e3fbe9b69d)
+
+Tienda 3:
+
+![image](https://github.com/user-attachments/assets/a69fbe8c-1a2a-40a4-925c-1ff23c063a80)
+
+Tienda 4:
+
+![image](https://github.com/user-attachments/assets/3cf0f37d-76fb-4aa4-9ac7-b18cd47238ff)
 
 **Conclusión Estudio 6**
 
@@ -373,7 +387,7 @@ Los datos obtenidos fueron:
 *   Precio Promedio Tienda 3: 465459.7711
 *   Precio Promedio Tienda 4: 440362.8923
 
-**Conclusión Estudio 7**
+<u>**Conclusión Estudio 7**</u>
 
 Basándonos en este estudio, podemos ver una variación de casi un 10% de los precios entre la Tienda 1 y la Tienda 4, lo cual podría implicar que los valores de los productos son más altos en la Tienda 1, afectando las ganancias totales finales, o que la cantidad de ventas de la Tienda 4 han sido productos de bajo costo, lo cual ha hecho que el promedio se vea distorsionado respecto al resto.
 
@@ -404,7 +418,6 @@ Tienda 1:
 |Artículos para el hogar |    12698400.0|
 |Libros                   |    8784900.0|
 
-
 Tienda 2:
 
 |Categorías| Ventas|
@@ -417,7 +430,6 @@ Tienda 2:
 |Juguetes              |      15945400.0|
 |Artículos para el hogar|     14746900.0|
 |Libros                  |    10091200.0|
-
 
 Tienda 3:
 
@@ -432,7 +444,6 @@ Tienda 3:
 |Artículos para el hogar |    15060000.0|
 |Libros                  |     9498700.0|
 
-
 Tienda 4:
 
 |Categorías| Ventas|
@@ -446,7 +457,7 @@ Tienda 4:
 |Artículos para el hogar |    15074500.0|
 |Libros                  |     9321300.0|
 
-**Conclusión Estudio 8**
+<u>**Conclusión Estudio 8**</u>
 
 Como se aprecia en los resultados, las categorías con más ventas no influyen directamente en las ventas totales, ya que dejando fuera la Tienda 1, las Tiendas 2, 3 y 4 tienen categorías con ventas similares si nos remitimos a las 3 primeras categorías con más ventas.
 
@@ -469,7 +480,7 @@ Los datos obtenidos fueron:
 *   Tienda 3: 5.37%
 *   Tienda 4: 5.54%
 
-**Conclusión Estudio 9**
+<u>**Conclusión Estudio 9**</u>
 
 Como se aprecia en los resultados, la tienda 2 y la tienda 4 son las que tienen peor relación entre costo de envío y precio de producto. El problema que se presenta para la tienda 4 es que además tiene la peor venta total de las 4 tiendas, por lo cual que el precio de envío sea alto pone una alarma importante financieramente hablando.
 
@@ -485,7 +496,7 @@ Basado en los estudios anteriores, si realizamos un análisis por tienda encontr
 
 - **Tienda 4:** Si bien tiene los promedios de envíos más bajos y los precios más bajos, esto podría significar que o su enfoque está siendo equivocado en cuanto a los productos que está potenciando, o que literalmente sus estructuras de precios no son las adecuadas para poder ver reflejado esto en sus ganancias. De hecho, de las 4 tiendas, es la que posee menores ganancias. Además, a lo anterior debemos sumar que es la 2da tienda con peor calificación de las 4, por lo cual la preferencia de los clientes será baja. A esto debemos sumar que, a pesar de vender menos, la relación entre costos de envío y precio de los productos es la 2da peor, generando que las ganancias sean aún más bajas.
 
-**Decisión Final:**
+<u>**Decisión Final:**</u>
 
 Se sugiere cerrar la tienda 4 por los siguientes motivos:
 
