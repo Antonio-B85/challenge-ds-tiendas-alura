@@ -45,7 +45,7 @@ El análisis se divide en varios estudios los cuales se encuentran detallados y 
 
 ## Conclusiones
 
-Se sugiere cerrar la Tienda 4. El análisis que respalda esta decisión se divide primero en un análisis final para cada una de las 4 tiendas y en base a esto se indica porque motivos la Tienda 4 es la menos eficiente de todas. Todo esto se encuentra detallado en el archivo [ChallengeDSTiendasAlura.ipynb](https://github.com/Antonio-B85/challenge-ds-tiendas-alura/blob/main/ChallengeDSTiendasAlura.ipynb), sección "Conclusiones Finales".
+Se sugiere cerrar la Tienda 4. El análisis que respalda esta sugerencia se divide primero en un análisis final para cada una de las 4 tiendas y en base a esto se indica porque motivos la Tienda 4 es la menos eficiente de todas. Todo esto se encuentra detallado en el archivo [ChallengeDSTiendasAlura.ipynb](https://github.com/Antonio-B85/challenge-ds-tiendas-alura/blob/main/ChallengeDSTiendasAlura.ipynb), sección "Conclusiones Finales".
 
 ## Autor
 
